@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="#-about-me">🐼 About Me</a> │ 
-  <a href="#-experience--hot-roles">🎋 Experience</a>
+  <a href="#-experience">🎋 Experience</a>
 </p>
 
 ---
