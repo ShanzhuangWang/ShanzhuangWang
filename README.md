@@ -16,12 +16,11 @@
 
 ## 🐼 About Me
 
-* 🎯 **AI Talent Partner:** Hi, I'm **Panda**, an executive search consultant specializing in **Foundation Models and AGI applications**. I hold deep, real-time insights into the talent mobility, technical trends, and compensation benchmarks of leading tech giants and startups in China.
-* 🛠️ **Tech Focus & Domains:** 
-  * *Architectures:* Large Language Models (LLM), Multimodal Vision-Language Models (VLM), Agents, Search/Recommendation/Ads LLMs, and Speech Multimodal Algorithms.
-  * *Hardcore Infra:* AI Infrastructure, Distributed Systems, Compiler & Kernel Optimization.
+* 🎯 **AI Talent Partner:** Hi, I'm **Panda**, a Talent Partner in **Foundation Models and AGI applications**.
+* 🛠️ **Focus & Domains:** 
+  * LLM / VLM (Pre-train, SFT, RLHF/DPO Alignment), Agents, AI Infra, Speech Multimodal, Search & Recommendation LLMs.
   * *My Current Sourcing Focus:* Pre-training and Post-training (SFT, RLHF/DPO/PPO, and Alignment).
-* 🏢 **Partner Ecosystem:** Deep partnerships with top-tier AI labs in Beijing, Shanghai, Shenzhen, and Hangzhou. My clients range from **major internet giants (TMT)** to leading AGI pioneers such as **DeepSeek, Moonshot AI (Kimi), Zhipu AI (GLM), StepFun (阶跃星辰), and MiniMax**.
+* 🏢 **Partner Ecosystem:** Deep partnerships with top-tier AI labs. My clients range from **major internet giants (BAT TMDJ)** to leading AGI pioneers such as **DeepSeek, Moonshot AI (Kimi), Zhipu AI (GLM), StepFun (阶跃), and MiniMax**.
 * 🎓 **Elite Talent Pool:** I work closely with core team members from top companies. Most candidates in my network graduate from **C9, 985, and QS50 universities**. I can directly refer you to the core tech leads and secure fast-track interviews.
 * 🎍 **The Panda Philosophy (Why "Panda"?):** 
   > *My brand embodies the spirit of the Panda:*
@@ -30,23 +29,20 @@
   > * **Gentle yet Resilient (外柔内刚):** A friendly approach with an unyielding commitment to professional ethics.
   > * **Integrity (君子风骨):** Like a panda living on bamboo, I maintain absolute integrity and a long-term partnership mindset in the headhunting community.
 * 📬 **Let's Connect & Build AGI:**
-  * **WeChat / Tel:** `19818508519` (Scan / Add for quick chat)
+  * **WeChat / Tel:** `19818508519`
   * **Email:** `wsz0415@126.com`
 
 ---
 
 ## 🎋 Experience
 
-Below are some of the most active hiring programs and hot roles currently in my portfolio:
-
-| Company | Role | Period | Focus & Requirements |
+| Company | Role | Period | Focus |
 | :--- | :--- | :--- | :--- |
-| **DeepSeek** | Senior / Staff Researcher | 2026.5 - Present | Post-training (RLHF/DPO Alignment), Reasoning Algorithms |
-| **Moonshot AI (Kimi)** | Core Algorithm Engineer | 2026.2 - Present | Long-context understanding, Multimodal VLM pre-training |
-| **Zhipu AI (GLM)** | Infra / CUDA Expert | 2026.4 - Present | Large-scale training acceleration, Triton/CUDA kernels |
-| **Top Internet Giant** | Tech Lead / Expert | 2026.1 - Present | Search/Recommendation Large Models, Agent Frameworks |
+| **Headhunting Firm** | Senior Consultant | 2025.11 - Present | LLM / VLM , Agents, AI Infra, Speech Multimodal, Search & Recommendation LLMs |
+| **AI agent startup** | HR | 2025.6 - 2025.11 | Agent，Product Ops |
+| **Alibaba Taobao and Tmall Group** | HR | 2023.11 - 2025.6 | Search & Recommendation LLMs, CV，Speech Multimodal|
 
-*Feel free to reach out to me via WeChat or Email to explore these matching opportunities or get tailored career consulting.*
+*Feel free to reach out to me via WeChat or Email to explore matching opportunities or get tailored career consulting.*
 
 ---
 
